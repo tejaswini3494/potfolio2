@@ -6,6 +6,7 @@ export const SKILLS = [
         { skill: "CSS" ,score:"Advance"},
         { skill: "Javascript",score:"Intermidiate" },
         { skill: "React",score:"Intermidiate" },
+        { skill: "Tailwind CSS",score:"Intermidiate" },
       ],
      
     },
